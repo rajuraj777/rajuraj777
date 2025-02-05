@@ -20,7 +20,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajuraj777&show_icons=true&locale=en" alt="rajuraj777" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajuraj777&" alt="rajuraj777" /></p>
 
 
 <!--
